@@ -1,0 +1,14 @@
+
+AppMVVM/\.vs/
+
+AppMVVM/packages/
+
+AppMVVM/AppMVVM/AppMVVM/bin/
+
+AppMVVM/AppMVVM/AppMVVM/obj/
+
+AppMVVM/AppMVVM/AppMVVM\.Android/bin/
+
+AppMVVM/AppMVVM/AppMVVM\.Android/obj/
+
+AppMVVM/AppMVVM/AppMVVM\.iOS/obj/
